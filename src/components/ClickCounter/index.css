@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.span-element {
+  color: #c20a72;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+
+.heading {
+  font-size: 32px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.paragraph {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.button {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 10px;
+  height: 40px;
+  width: 120px;
+  text-align: center;
+  border-radius: 6px;
+  border-width: 0;
+}
